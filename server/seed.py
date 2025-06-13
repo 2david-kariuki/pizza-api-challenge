@@ -6,7 +6,7 @@ from server.models.restaurant_pizza import RestaurantPizza
 app = create_app()
 
 with app.app_context():
-    print("🌱 Seeding database...")
+    print("Seeding database...")
 
     # Clear existing data
     db.drop_all()
@@ -28,4 +28,4 @@ with app.app_context():
     db.session.add_all([r1, r2, p1, p2, rp1, rp2, rp3])
     db.session.commit()
 
-    print("✅ Seeding complete!")
+    
