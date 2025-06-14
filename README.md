@@ -8,7 +8,7 @@ A RESTful API built with Flask to manage restaurants, pizzas, and their associat
 
 ```bash
 # Clone repo & enter project
-git clone <repo-url>
+git clone git@github.com:2david-kariuki/pizza-api-challenge.git
 cd pizza-api-challenge
 
 # Create & activate virtual env
