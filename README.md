@@ -38,7 +38,7 @@ GET	/pizzas	All pizzas
 POST	/restaurant_pizzas	Link pizza to restaurant
 
 ✅ Validations
-price must be 1–30
+price must be 50–300
 
 404 if restaurant not found
 
