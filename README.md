@@ -50,6 +50,3 @@ Import challenge-1-pizzas.postman_collection.json to test all routes
 👤 Author
 David Karumba — Moringa School Phase 4 Challenge
 
-yaml
-Copy
-Edit
